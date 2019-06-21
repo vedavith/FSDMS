@@ -3,7 +3,7 @@
 				<div class ="row">
 					<div class = "col">
 						<div align = "left">
-							 <p style="color: #fff;margin-top: 18px;">Zenopsys Technologies &copy; <?php echo date("Y");?> </p>
+							 <p style="color: #fff;margin-top: 18px;"> <?php echo date("Y");?> </p>
 						</div>
 					</div>
 					<div class = "col">
