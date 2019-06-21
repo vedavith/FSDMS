@@ -9,7 +9,7 @@
 					<div class = "col">
 						<div align = "right">
 
-							<a href="http://zenopsys.com/"><img src="https://2.bp.blogspot.com/-WiMKgntZCHs/V8vA9XDjKpI/AAAAAAAAGV4/BesnMsluiBQrGFuELzKHJzoQ-nB9sW4wACLcB/s1600/Zenopsys-Technologies.png" width="90" height="60" ></a>
+<!-- 							<a href="http://zenopsys.com/"><img src="https://2.bp.blogspot.com/-WiMKgntZCHs/V8vA9XDjKpI/AAAAAAAAGV4/BesnMsluiBQrGFuELzKHJzoQ-nB9sW4wACLcB/s1600/Zenopsys-Technologies.png" width="90" height="60" ></a> -->
 						</div>
 					</div>
 				</div>
