@@ -125,9 +125,6 @@ for($z = 0; $z < count($get_array); $z++)
        $get_to_date = $result->to_date;
        $get_quantity = (int)$result->quantity;
 
-      
-    
-    
        if ((!(in_array($get_from_date,$date_keys_as_values)) && !(in_array($get_to_date,$date_keys_as_values))))
        {
          $from_date_checker = 2;
