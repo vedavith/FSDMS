@@ -565,9 +565,6 @@ class Home extends CI_Controller {
               echo $this->email->print_debugger();
               echo "<script>window.location.href='".base_url()."home/manage_representative/';</script>";
              }
-
-
-
           }
           else
           {
@@ -633,7 +630,6 @@ class Home extends CI_Controller {
     {
      if($this->session->has_userdata('id'))
 		{
-
 			$data['user_data'] = $this->select_model->select_user($this->backend_table,$this->user_id);
             $id = $this->uri->segment(3);
 
@@ -648,6 +644,7 @@ class Home extends CI_Controller {
             $this->error_403();
       }
     }
+	
     //21-2-19 edit representative data
     function edit_representative_data()
     {
